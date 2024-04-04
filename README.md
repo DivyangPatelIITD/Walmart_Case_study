@@ -15,3 +15,5 @@ The company collected the transactional data of customers who purchased products
 - Marital_Status:	Marital Status
 - ProductCategory:	Product Category (Masked)
 - Purchase:	Purchase Amount
+
+**Please check pdf file for detailed analysis** 
